@@ -11,3 +11,4 @@ resultado = numero1 * numero2
 # Mostrar el resultado
 print(f"La multiplicación de {numero1} por {numero2} es: {resultado}")
 print("Buenas noches profesor")
+print("Espero que se encuentre muy bien")
